@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>KotlinFileStatisticsPlugin</id>
+    <name>Kotlin File Statistics</name>
+    <version>1.0.0</version>
+    <vendor email="your.email@example.com" url="http://yourwebsite.com">Your Name</vendor>
+    <depends>org.jetbrains.kotlin</depends>
+    <actions>
+        <action id="com.example.kotlinfilestatistics.KotlinFileStatisticsAction"
+                class="com.example.kotlinfilestatistics.KotlinFileStatisticsAction"
+                text="Kotlin File Statistics"
+                description="Displays statistics for the current Kotlin file."
+                icon="icons/icon.png">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+        </action>
+    </actions>
+
+</idea-plugin>
