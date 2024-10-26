@@ -1,14 +1,11 @@
 # Kotlin File Statistics 📝
 
 [![JetBrains Plugin](https://img.shields.io/jetbrains/plugin/v/7275-KotlinFileStatistics.svg)](https://plugins.jetbrains.com/plugin/7275)
-[![License](https://img.shields.io/github/license/leksica/KotlinFileStatistics.svg)](LICENSE)
-[![Build Status](https://github.com/leksica/KotlinFileStatistics/actions/workflows/ci.yml/badge.svg)](https://github.com/leksica/KotlinFileStatistics/actions)
 
 ## Overview
 
 **Kotlin File Statistics** is an IntelliJ IDEA plugin that provides insightful metrics for your Kotlin files. With a single click, obtain valuable statistics such as the total number of lines, the count of `TODO` comments, and identification of the longest function within your Kotlin source code. Enhance your development workflow by easily monitoring and maintaining your codebase's quality and structure.
 
-![Plugin Screenshot](https://github.com/leksica/KotlinFileStatistics/blob/main/assets/screenshot.png)
 
 ## Features
 
@@ -32,8 +29,9 @@
      - **Total Number of Lines**
      - **Number of TODOs**
      - **Longest Function Name and Its Line Count**
+       
+![Plugin Screenshot](https://github.com/leksica/KotlinFileStatistics/blob/main/assets/screenshot.png)
 
-![Usage Example](https://github.com/leksica/KotlinFileStatistics/blob/main/assets/usage_example.gif)
 
 ## Building from Source
 
