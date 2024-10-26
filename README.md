@@ -30,7 +30,7 @@
      - **Number of TODOs**
      - **Longest Function Name and Its Line Count**
        
-![Plugin Screenshot](https://github.com/leksica/KotlinFileStatistics/blob/main/images/example.png)
+![Plugin Screenshot](https://github.com/leksica/KotlinFileStatistics/main/images/example.png)
 
 
 ## Building from Source
