@@ -6,7 +6,8 @@ import com.intellij.openapi.actionSystem.CommonDataKeys
 import com.intellij.openapi.ui.Messages
 import org.jetbrains.kotlin.psi.KtNamedFunction
 import com.intellij.psi.util.PsiTreeUtil
-
+// komentari
+// komentari
 class KotlinFileStatisticsAction : AnAction() {
     override fun actionPerformed(event: AnActionEvent) {
         val project = event.project ?: return
